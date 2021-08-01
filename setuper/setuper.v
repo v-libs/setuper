@@ -3,7 +3,7 @@ module setuper
 import os
 import sys
 
-pub setup(name string,
+pub fn setup(name string,
           version string,
           repo string,
           license string,
