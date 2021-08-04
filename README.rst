@@ -24,7 +24,7 @@ Example
     name='MODULE_NAME',
     version='0.0.0',
     repo='URL',
-    license='MIT',
+    license='COPYRIGHT',
     author='John Doe',
     email='john.doe@example.com',
     description='MODULE_QUOTE'
