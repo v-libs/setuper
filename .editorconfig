@@ -14,3 +14,7 @@ indent_style = space
 [*.{yml,yaml}]
 indent_style = space
 indent_size = 2
+
+[*.rst]
+indent_style = tab
+indent_size = 2
