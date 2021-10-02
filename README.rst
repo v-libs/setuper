@@ -20,3 +20,12 @@ Example
         email='john.doe@example.com',
         description='MODULE_QUOTE'
   )
+
+===================
+Official resources:
+===================
+
+- News: [@v_libs](https://t.me/v_libs)
+- Documentation: [docs/doc.rst](https://github.com/vTelegramBot/v-telegram-bot/tree/master/docs/doc.rst)
+- Source: [GitHub repo](https://github.com/v-libs/setuper)
+- Bug/Issues tracker: [GitHub issues tracker](https://github.com/v-libs/setuper/issues)
