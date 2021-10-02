@@ -8,6 +8,7 @@ Example
 
 .. code:: vlang
 
+  /* Example for setup.v: */
   module main
   import setuper { setup }
 
