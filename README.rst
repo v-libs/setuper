@@ -25,7 +25,7 @@ Example
 Official resources:
 ===================
 
-- News: `@v_libs <https://t.me/v_libs>`_
+- News: `@v-libs <https://t.me/v_libs>`_
 - Documentation: `docs/doc.rst <https://github.com/vTelegramBot/v-telegram-bot/tree/master/docs/doc.rst>`_
 - Source: `GitHub repo <https://github.com/v-libs/setuper>`_
 - Bug/Issues tracker: `GitHub issues tracker <https://github.com/v-libs/setuper/issues>`_
