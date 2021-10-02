@@ -2,30 +2,21 @@
 setuper: easily create modules
 ==============================
 
-::
-				 _________
-	 ____  |__   __|  ____    ____
-	/ __  \___| |     | _ \___| _ \
-	\___  \ _ / |_   _| __/_ /    \
-	/  ___/___\_| |_| |_| _ _\ _| _\
-
 -------
 Example
 -------
 
-.. code:: v
+.. code:: vlang
 
-	module main
+  module main
+  import setuper { setup }
 
-	import setuper { setup }
-
-
-	setup(
-		name='MODULE_NAME',
-		version='0.0.0',
-		repo='URL',
-		license='COPYRIGHT',
-		author='John Doe',
-		email='john.doe@example.com',
-		description='MODULE_QUOTE'
-	)
+  setup(
+        name='MODULE_NAME',
+        version='0.0.0',
+        repo='URL',
+        license='COPYRIGHT',
+        author='John Doe',
+        email='john.doe@example.com',
+        description='MODULE_QUOTE'
+  )
